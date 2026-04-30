@@ -1,0 +1,21 @@
+# compiled binary
+process_threads
+
+# object / build files
+*.o
+*.obj
+*.out
+*.exe
+
+# macOS junk
+.DS_Store
+
+# editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# logs
+*.log
+output.txt

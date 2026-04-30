@@ -1,0 +1,4 @@
+PID Arrival_Time Burst_Time Priority Memory_Size
+1 0 6 3 200
+2 1 4 3 350
+3 2 2 1 120
