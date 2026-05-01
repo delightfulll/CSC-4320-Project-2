@@ -21,8 +21,6 @@ buffer, a mutex, and semaphores.
 | ------------------- | ----------------------------------- |
 | `process_threads.c` | Main C source code                  |
 | `processes.txt`     | Input file with process data        |
-| `Makefile`          | Build instructions                  |
-| `REPORT.md`         | Short report explaining the project |
 | `.gitignore`        | Files to ignore in git              |
 
 ## Input Format
